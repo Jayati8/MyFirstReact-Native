@@ -19,6 +19,7 @@ const App = () => {
     setEmail("");
     setName("");
     setPassword("");
+    console.log("Inside app file...")
   }
 
   return (
